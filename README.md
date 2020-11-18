@@ -1,2 +1,3 @@
-# Cousera_html_00
-Coursera repository learn html
+# Cousera html-basic course 
+
+Coursera repository learn basic-html
